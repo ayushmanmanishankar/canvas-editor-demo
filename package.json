@@ -1,0 +1,17 @@
+{
+  "author": "Dmitriy Kubyshkin <dmitriy@kubyshkin.name>",
+  "name": "canvas-text-editor",
+  "description": "Simple text editor using html5 canvas",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "22.1.0",
+    "vite": "4.3.9",
+    "vite-plugin-commonjs": "0.8.2",
+    "vitest": "0.34.1"
+  }
+}
